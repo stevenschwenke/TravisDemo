@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static junit.framework.TestCase.assertTrue;
 
-public class MyTestClass {
+public class MyClassTest {
 
     @Test
     void myTest() {
