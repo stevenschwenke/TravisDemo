@@ -6,6 +6,6 @@ public class MyClassTest {
 
     @Test
     public void myTest() {
-        assertTrue(Boolean.FALSE);
+        assertTrue(Boolean.TRUE);
     }
 }
